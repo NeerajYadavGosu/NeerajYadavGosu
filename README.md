@@ -22,9 +22,9 @@ ___
 
 ## TECHNICAL SKILLS ⚙️🧑‍💻
 
-- **Languages**: HTML, Java, Python, SQL  
-- **Developer Tools**: VS Code, IntelliJ IDEA, NetBeans  
-- **Technologies/Frameworks**: Git, GitHub, MySQL  
+- **Languages**:  Java, Python, SQL  
+- **Developer Tools**: VS Code, IntelliJ IDEA, NetBeans ,Cursor
+- **Technologies/Frameworks**: Git, GitHub, MySQL , Renpy
 
 ___
 

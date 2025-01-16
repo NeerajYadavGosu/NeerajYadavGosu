@@ -2,7 +2,7 @@
 # This is  Neeraj Yadav Gosu  
 Iam from Ongole, A.P., India
 
-📞 9100652069 | ✉️ neerajyadavcodes@gmail.com | [LinkedIn](https://www.linkedin.com/in/neeraj-yadav-gosu-3670a0233/) | [GitHub](https://github.com/NeerajYadavGosu)
+📞 9100652069 | ✉️ neerajyadavcodes@gmail.com | 
 
 ___
 

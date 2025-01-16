@@ -8,10 +8,10 @@ ___
 
 ## EDUCATION 🧑‍🎓
 
-**Kalasalingam University**  
+**Acharya Nagarjuna University**  
 Bachelor of Technology in Computer Science - 6th Sem - 8.57 CGPA  
 2021 – 2025  
-Krishnankoil, Tamil Nadu
+Guntur, Andhra Pradesh
 
 **Narayana Junior College**  
 12th - MPC - 9.82 GPA  
